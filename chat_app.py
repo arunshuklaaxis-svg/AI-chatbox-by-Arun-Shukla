@@ -70,6 +70,7 @@ if st.sidebar.button("🔄 Reset Conversation"):
     st.experimental_rerun()
 
 
+st.markdown('**Design and developed by: Arun Shukla**')
 
 
 
